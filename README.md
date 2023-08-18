@@ -3,6 +3,4 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/canuto.m/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscanutosouza&hide_progress=true)
-
-[![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscanutosouza&show_icons=true&theme=onedark)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscanutosouza&show_icons=true&theme=dracula)
